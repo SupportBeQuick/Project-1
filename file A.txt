@@ -1,3 +1,4 @@
+Test
 Проверка
 лекции SC50 https://javarush.ru/quests/lectures/questharvardcs50.level00.lecture06
 
@@ -14,6 +15,8 @@ keep https://keep.google.com/u/0/#home
 Система контроля версий https://git-scm.com/book/ru/v1 
 
 ++++++++++++   https://desktop.github.com/
+++++++++++++   https://git-for-windows.github.io/
+
 
 https://guides.github.com/activities/hello-world/
 https://github.com/SupportBeQuick/Project-1
