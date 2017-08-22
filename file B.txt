@@ -7,6 +7,13 @@ $  git config --list
 
 $  git status
 $  git add .
+$ git commit -m "второй коммит"
+
+
+добавили в веб
+git remote add origin https://github.com/SupportBeQuick/Project-1.git
+git push -u origin master
+
 
 core.symlinks=false
 core.autocrlf=true
