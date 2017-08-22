@@ -9,7 +9,10 @@ $  git status
 $  git add .
 $ git commit -m "второй коммит"
 $ git push публикация в веб
+git remote add origin https://github.com/SupportBeQuick/Project-1.git
+git push -u origin master
 
+https://supportbequick.github.io/support/
 
 добавили в веб
 git remote add origin https://github.com/SupportBeQuick/Project-1.git
