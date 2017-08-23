@@ -8,7 +8,8 @@ $  git config --list
 $  git status
 $  git add .
 $ git commit -m "второй коммит"
-$ git push публикация в веб
+$ git push    публикация в веб
+$ git push -f публикация в веб
 git remote add origin https://github.com/SupportBeQuick/Project-1.git
 git push -u origin master
 
@@ -18,6 +19,8 @@ https://supportbequick.github.io/support/
 git remote add origin https://github.com/SupportBeQuick/Project-1.git
 git push -u origin master
 
+git config --global user.name 'имя_пользователя_github' 
+git config --global user.email 'ваша_электронная_почта'
 
 core.symlinks=false
 core.autocrlf=true
@@ -39,3 +42,6 @@ credential.helper=manager
 gui.recentrepo=D:/Евгений/Project 1
 user.name=Evgeny Berdnikov
 user.email=y777y73@gmail.com
+
+
+
