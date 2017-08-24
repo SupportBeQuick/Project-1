@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-test
-=======
-test
->>>>>>> 9c782bb9f6ea81757fba6acf5b9a197f615abd3b
+
+Android
+термины https://developers.google.com/android/for-all/vocab-words/?hl=en
+курс https://javarush.ru/quests/lectures/questgoogleandroid.level01.lecture02

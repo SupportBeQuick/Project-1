@@ -1,4 +1,18 @@
-Проверка Bs
+
+Интерактивное обучение работы с Git-http://learngitbranching.js.org/
+video https://www.youtube.com/watch?v=vFj2-bKGwkw
+
+Система контроля версий https://git-scm.com/book/ru/v1 
+
+++++++++++++   https://desktop.github.com/
+++++++++++++   https://git-for-windows.github.io/
+
+
+https://guides.github.com/activities/hello-world/
+https://github.com/SupportBeQuick/Project-1
+https://www.youtube.com/watch?v=SfSYrebXLDE
+https://www.youtube.com/watch?v=v7GbxUnwRY8
+
 
 Саня@Sony MINGW64 ~
 $  git config --global user.name "Evgeny Berdnikov"
