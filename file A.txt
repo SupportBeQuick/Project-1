@@ -6,7 +6,9 @@ keep https://keep.google.com/u/0/#home
 Настройка IJ
 https://javarush.ru/quests/lectures/questsyntax.level03.lecture09
 https://help.javarush.ru/
-
+доп. материалы:  https://javarush.ru/quests/lectures/questsyntax.level01.lecture09
+http://info.javarush.ru/JavaRush_lectures_discussion/2013/05/20/lecture-1.html
+https://habrahabr.ru/post/43293/
 
 
 Help IJ

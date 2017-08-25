@@ -1,4 +1,9 @@
-
+аланинаминотрансфераза
 Android
 термины https://developers.google.com/android/for-all/vocab-words/?hl=en
 курс https://javarush.ru/quests/lectures/questgoogleandroid.level01.lecture02
+
+
+Dev intensiv
+http://skill-branch.ru/android
+https://vk.com/docs-117903599

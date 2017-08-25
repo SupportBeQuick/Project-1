@@ -1,5 +1,5 @@
 
-Интерактивное обучение работы с Git-http://learngitbranching.js.org/
+Интерактивное обучение работы с Git  http://learngitbranching.js.org/
 video https://www.youtube.com/watch?v=vFj2-bKGwkw
 
 Система контроля версий https://git-scm.com/book/ru/v1 
